@@ -1,0 +1,851 @@
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml b/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml b/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,180 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="a937a9c7-3129-47d3-8127-01e3ca67469f" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Laboratory work/client.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Laboratory work/server.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../PythonProjects/BotHH/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/BotHH/bot.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../PythonProjects/InstaTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/InstaTest/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../PythonProjects/InstaTest/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/InstaTest/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../PythonProjects/test_string/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/test_string/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Python_Basic" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Basic" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Python_Basic 1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Basic 1" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/11.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/11.3.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.3.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.3/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/my_file.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/numbers.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/test.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/second_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/second_module.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/.env" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/readme.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot1/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/Example/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/DB/work_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/DB/work_db.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/NOD" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NOD" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/ReadMe.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/SQL/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/SQL/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test1/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test1/main.py" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+-  <component name="ProjectId" id="2voxUKsYC37gEFQxEPBndEm0g06" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
+-  }
+-}]]></component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="a937a9c7-3129-47d3-8127-01e3ca67469f" name="Changes" comment="" />
+-      <created>1744825242681</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1744825242681</updated>
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/main.py
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/main.py b/../../For an interview/01_fibonacci_10_nums/main.py
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/main.py	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,9 +0,0 @@
+-# Функция для печати первых 10 чисел Фибоначчи
+-def fibonacci_10_nums():
+-    a, b = 0, 1
+-    for _ in range(10):
+-        print(a, end=' ')
+-        a, b = b, a + b
+-
+-# Вызываем функцию
+-fibonacci_10_nums()
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/main.py
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/main.py b/../../For an interview/02_bubble_sort/main.py
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/main.py	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,25 +0,0 @@
+-import random
+-
+-
+-# Функция для сортировки входного
+-# целочисленного массива методом пузырьковой сортировки
+-def bubble_sort(arr):
+-    n = len(arr)
+-    swap = True
+-
+-    while swap:
+-        swap = False
+-        for i in range(n - 1):
+-            if arr[i] > arr[i + 1]:
+-                arr[i], arr[i + 1] = arr[i + 1], arr[i]
+-                swap = True
+-        n -= 1
+-
+-    return arr
+-
+-
+-# Пример использования
+-array = [random.randint(0, 100) for _ in range(10)]
+-
+-print("Исходный массив:", array)
+-print("Отсортированный массив:", bubble_sort(array))
+Index: ../../For an interview/03_fibonacci_recursion/.idea/modules.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/modules.xml b/../../For an interview/03_fibonacci_recursion/.idea/modules.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/modules.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" filepath="$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/misc.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/misc.xml b/../../For an interview/02_bubble_sort/.idea/misc.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/misc.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (02_bubble_sort)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/modules.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/modules.xml b/../../For an interview/02_bubble_sort/.idea/modules.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/modules.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/02_bubble_sort.iml" filepath="$PROJECT_DIR$/.idea/02_bubble_sort.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml b/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml b/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,21 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <option name="ignoredNames">
+-        <list>
+-          <option value="dir" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+-    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="ignoredIdentifiers">
+-        <list>
+-          <option value="main.File.write" />
+-          <option value="super.__pi" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml b/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,21 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <option name="ignoredNames">
+-        <list>
+-          <option value="dir" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+-    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="ignoredIdentifiers">
+-        <list>
+-          <option value="main.File.write" />
+-          <option value="super.__pi" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/workspace.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/workspace.xml b/../../For an interview/02_bubble_sort/.idea/workspace.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/workspace.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,51 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="4a4d68b2-7252-4117-a097-8b72f0eef1f5" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01_fibonacci_10_nums/main.py" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+-  <component name="ProjectId" id="2vp7JHiUjjz7LcXIXdQEFx3is6K" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
+-  }
+-}]]></component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="4a4d68b2-7252-4117-a097-8b72f0eef1f5" name="Changes" comment="" />
+-      <created>1744830088064</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1744830088064</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/vcs.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/vcs.xml b/../../For an interview/02_bubble_sort/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/vcs.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/modules.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml b/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/01_fibonacci_10_nums.iml" filepath="$PROJECT_DIR$/.idea/01_fibonacci_10_nums.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml b/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,21 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+-      <option name="ignoredNames">
+-        <list>
+-          <option value="dir" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+-    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="ignoredIdentifiers">
+-        <list>
+-          <option value="main.File.write" />
+-          <option value="super.__pi" />
+-        </list>
+-      </option>
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/misc.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/misc.xml b/../../For an interview/03_fibonacci_recursion/.idea/misc.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/misc.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (03_fibonacci_recursion)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml b/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/misc.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml b/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (01_fibonacci_10_nums)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/vcs.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml b/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml b/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml b/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml
+===================================================================
+diff --git a/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml b/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml
+deleted file mode 100644
+--- a/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/.idea/workspace.xml
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml b/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,68 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="9dbde248-51fa-47ca-9072-257c5dea82fc" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/main.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/02_bubble_sort.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/main.py" beforeDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+-  <component name="ProjectId" id="2vpFPLay4qjlbf2pq0BdgmuFM0t" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
+-  }
+-}]]></component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="9dbde248-51fa-47ca-9072-257c5dea82fc" name="Changes" comment="" />
+-      <created>1744834083426</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1744834083426</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../For an interview/03_fibonacci_recursion/main.py
+===================================================================
+diff --git a/../../For an interview/03_fibonacci_recursion/main.py b/../../For an interview/03_fibonacci_recursion/main.py
+deleted file mode 100644
+--- a/../../For an interview/03_fibonacci_recursion/main.py	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,15 +0,0 @@
+-# Функция для вывода n-ого числа Фибоначчи с
+-# использованием рекурсии (m = fibonacci(n), где n - целое число)
+-
+-def fibonacci(num):
+-    if num <= 0:
+-        return 0
+-    elif num == 1:
+-        return 1
+-    else:
+-        return fibonacci(num - 1) + fibonacci(num - 2)
+-
+-
+-# Пример использования
+-n = 4
+-print(f"Число Фибоначчи для n={n} равно {fibonacci(n)}")
+Index: ../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml
+===================================================================
+diff --git a/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml b/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml
+deleted file mode 100644
+--- a/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ /dev/null	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"573264d2-199c-48c5-8e1a-14f36e85f3a1\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/client.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/server.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/main.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/workspace.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/02_bubble_sort/main.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/main.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2vqYl5SwlkAgkqfBcLT5Fbfi1PB\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.client\">\r\n    <configuration name=\"client\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"04_server-client\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/client.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"server\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"04_server-client\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/server.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.client\" />\r\n        <item itemvalue=\"Python.server\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"573264d2-199c-48c5-8e1a-14f36e85f3a1\" name=\"Changes\" comment=\"\" />\r\n      <created>1744874218450</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1744874218450</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ b/.idea/workspace.xml	(date 1744878545203)
+@@ -5,6 +5,14 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="573264d2-199c-48c5-8e1a-14f36e85f3a1" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/04_server-client.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
+Index: ../03_fibonacci_recursion/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.11 (03_fibonacci_recursion)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../03_fibonacci_recursion/.idea/misc.xml b/../03_fibonacci_recursion/.idea/misc.xml
+--- a/../03_fibonacci_recursion/.idea/misc.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ b/../03_fibonacci_recursion/.idea/misc.xml	(date 1744835464668)
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (03_fibonacci_recursion)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: ../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml b/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml
+--- a/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ b/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml	(date 1744835464665)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/venv" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: ../03_fibonacci_recursion/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9dbde248-51fa-47ca-9072-257c5dea82fc\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/workspace.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../01_fibonacci_10_nums/main.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/02_bubble_sort.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/.idea/workspace.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../02_bubble_sort/main.py\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2vpFPLay4qjlbf2pq0BdgmuFM0t\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9dbde248-51fa-47ca-9072-257c5dea82fc\" name=\"Changes\" comment=\"\" />\r\n      <created>1744834083426</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1744834083426</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../03_fibonacci_recursion/.idea/workspace.xml b/../03_fibonacci_recursion/.idea/workspace.xml
+--- a/../03_fibonacci_recursion/.idea/workspace.xml	(revision df47d9c6d24b3cb9d804a6b51e522c0837f0623d)
++++ b/../03_fibonacci_recursion/.idea/workspace.xml	(date 1744874255568)
+@@ -5,24 +5,38 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="9dbde248-51fa-47ca-9072-257c5dea82fc" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/main.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/02_bubble_sort.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/main.py" beforeDir="false" />
++      <change afterPath="$PROJECT_DIR$/../04_server-client/client.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../04_server-client/server.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/main.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/.gitignore" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/misc.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/vcs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/workspace.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/main.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/.gitignore" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/misc.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/main.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -47,12 +61,13 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/_PyCharmProjects_for_work/For_an_interview/03_fibonacci_recursion&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">

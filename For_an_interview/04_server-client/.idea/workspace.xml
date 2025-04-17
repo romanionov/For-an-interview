@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="573264d2-199c-48c5-8e1a-14f36e85f3a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/01_fibonacci_10_nums/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/02_bubble_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/02_bubble_sort/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../For an interview/03_fibonacci_recursion/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/03_fibonacci_recursion.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/_PyCharmProjects_for_work/For_an_interview/03_fibonacci_recursion"
   }
 }]]></component>
   <component name="RunManager" selected="Python.client">
