@@ -10,6 +10,6 @@ def fibonacci(num):
         return fibonacci(num - 1) + fibonacci(num - 2)
 
 
-# Пример использования
+# Вызываем функцию
 n = 4
 print(f"Число Фибоначчи для n={n} равно {fibonacci(n)}")

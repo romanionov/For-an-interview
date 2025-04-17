@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dbde248-51fa-47ca-9072-257c5dea82fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/01_fibonacci_10_nums.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_fibonacci_10_nums/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/02_bubble_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_bubble_sort/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/03_fibonacci_recursion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_server-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_server-client/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_PyCharmProjects_for_work/For_an_interview/03_fibonacci_recursion&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
