@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="573264d2-199c-48c5-8e1a-14f36e85f3a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/_PyCharmProjects_for_work/For_an_interview/03_fibonacci_recursion"
+    "last_opened_file_path": "D:/_PyCharmProjects_for_work/For_an_interview/04_server-client"
   }
 }]]></component>
   <component name="RunManager" selected="Python.client">
