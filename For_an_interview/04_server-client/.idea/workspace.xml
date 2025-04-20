@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573264d2-199c-48c5-8e1a-14f36e85f3a1" name="Changes" comment="" />
+    <list default="true" id="573264d2-199c-48c5-8e1a-14f36e85f3a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_fibonacci_recursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
