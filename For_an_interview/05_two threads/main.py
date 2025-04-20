@@ -8,6 +8,7 @@ import time
 stop_event = threading.Event()
 
 
+
 # Функция для генерации случайной строки
 def generate_random_string(length=10):
     return ''.join(random.choices(string.ascii_letters, k=length))
